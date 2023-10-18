@@ -7,11 +7,11 @@ int main()
     {
         printf("NO");
     }
-    else if(x%2==0)
+    else if (x%2==0)
     {
         printf("YES");
     }
-    else if(x%2!=0)
+    else if (x%2!=0)
     {
         printf("NO");
     }
